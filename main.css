@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.screen{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+   background-image: url(../images/to\ do.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: 1470px;
+   height: 350px;
+   border-radius: 30px;
+   margin-left: 15px;
+  
+   margin-top: 3px;}
+   .add{
+    background-color:blue;
+    color:white;
+    margin-top: 15px;
+
+   }
+   .box{
+        padding:0;
+        border:1px solid white;
+        width: 30%;
+        height: 45vh;
+        text-align: centre;
+        color:black;
+       background-color:white;
+        margin-left: 35%;
+        margin-bottom: 50%;
+        margin-top: 1px;
+        border-radius: 25px;
+        border-color: black;
+        justify-content: centre;
+        overflow: hidden;
+        flex-direction: column;
+       
+   }
+   .screen>box{
+    margin-bottom: 50%;
+
+   }
+ /**{
+    box-sizing: border-box;
+    margin: 0;
+}
+.body
+  {
+    font-family: Arial, Helvetica, sans-serif;
+    
+   
+}
+
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    padding: 0.5rem 6rem;
+    align-items: center;
+    box-shadow: 0 .1rem 5px 0 gray;
+
+}
+.menu1{
+    list-style: none;
+    display: flex;
+
+}
+.menu1>li{
+    margin: 0 1rem;
+    border-bottom: 2px solid white;
+    cursor: pointer;
+}
+.menu>li:hover{
+    border-bottom: 2px solid blue;
+    color: blue;
+
+}
+.button{
+    width: 90px;
+    border: none;
+    margin: 1.5rem;
+   /* background-color: blue;
+    color: white;
+    padding: 5px;
+    align-items: right;
+    justify-content: right;}
+.brand{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: grey;
+
+}
+.write-btn{
+    border: none;
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 1rem;
+    align-items: right;
+    justify-content: right;
+}
+.blog-area{
+    margin: auto;
+    margin-top: 100px;
+    width: 40%;
+    border: 1px solid black;
+    display: flex;}
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    body{
+        font-family: Arial, Helvetica, sans-serif;
+        background-image: url(../images/to\ do.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 150vh;
+        overflow: hidden;
+       
+    
+        
+        
+    }
+    .parent{
+        height: 100vh;
+        width: 700px;
+        position: relative;
+    }
+    
+    .contain{
+        
+        width: 320px;
+        height: 450px;
+        text-align: centre;
+        color: white;
+        background-color: gray;
+        margin-left: 140%;
+        margin-top: 8%;}*/
+
+  
+   
+   
